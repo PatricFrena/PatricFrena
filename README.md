@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatricFrena
-- 👀 I’m interested in ?!?...
+- 👀 I’m interested in big challenges
 - 🌱 I'm currently learning Clarion and developing in C#
 - 💞️ I want to learn java 
 - 📫 How to reach me  --> patricfrena1000@gmail.com
